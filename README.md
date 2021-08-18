@@ -2,8 +2,7 @@
 MY RESUME/PRINT OUT OF MY NAME
 
 # MY RESUME
-[MY FRONTEND RESUME.zip](https://github.com/MaryAyokanmiOre/MARY-AYOKANMI-ORE-RESUME/files/7003885/MY.FRONTEND.RESUME.zip)
-
+ 
 This is my professional programming resume. It is still under construction and will continue to be edited as I am progressively learning more programming languages, frameworks and gaining relevant work experience. This was a task to be submitted as part of the HNG Internship. It is only about a month into my active coding/coding at all...
 
 This is a responsive, beautifully designed resume with embedded links(tap words) to HNG Internship, Visiola Foundation and my social media pages... Also there is neat particioning for better asthestic and organisation
@@ -25,8 +24,7 @@ Screenshots of My Resume
 
 
 ## ASSIGNMENT TWO (PRINT OUT OF MY NAME)
-[PROGRAM THAT PRINTS MY NAME USING HTML JAVASCRIPT.zip](https://github.com/MaryAyokanmiOre/MARY-AYOKANMI-ORE-RESUME/files/7003888/PROGRAM.THAT.PRINTS.MY.NAME.USING.HTML.JAVASCRIPT.zip)
-
+ 
 For assignment 2, I simply used inline CSS and Javascript (using the script tag inside HTML to print out my name. I also embeded the HNG links into the picture and logo.
 
 Languages used
