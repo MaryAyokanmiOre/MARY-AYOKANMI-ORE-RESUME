@@ -12,7 +12,7 @@ HTML
 CSS
 Frameworks used
 Fontawesome5 Icons
-Live website link:  
+Live website link: https://maryayokanmioretechresume.netlify.app/  
 
 
 Screenshots of My Resume
